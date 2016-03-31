@@ -10,7 +10,11 @@ namespace hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("oks 5");
+<<<<<<< HEAD
+            Console.WriteLine("oks 3");
+=======
+            Console.WriteLine("oks");
+>>>>>>> parent of 04d6541... pierwszy commit
         }
     }
 }
