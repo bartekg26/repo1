@@ -10,7 +10,7 @@ namespace hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("oks 6");
+            Console.WriteLine("oks 7");
         }
     }
 }
